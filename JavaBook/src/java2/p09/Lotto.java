@@ -1,4 +1,4 @@
-package java2.p9;
+package java2.p09;
 
 public class Lotto {
 
