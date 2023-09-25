@@ -9,6 +9,7 @@ public class Sedan {
 //		compoTire.size = 20;
 		compoTire.setSize(30);
 		
+		
 //		System.out.println(compoTire.size);
 		System.out.println(compoTire.getSize());
 		
